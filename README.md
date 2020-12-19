@@ -10,3 +10,8 @@ Bellow you can see the scrrenshots of the website and of the code.
 ![web screenshot 3](img/password_gen2.JPG)
 
 ![web screenshot 4](img/password_gen3.JPG)
+
+
+As well here are the links of my website. Thank you for your assessment!
+
+https://github.com/Tataru-94/Password-Generator
