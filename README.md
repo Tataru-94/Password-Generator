@@ -15,3 +15,5 @@ Bellow you can see the scrrenshots of the website and of the code.
 As well here are the links of my website. Thank you for your assessment!
 
 https://github.com/Tataru-94/Password-Generator
+
+https://tataru-94.github.io/Password-Generator/
